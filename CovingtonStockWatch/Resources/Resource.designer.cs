@@ -3782,10 +3782,13 @@ namespace CovingtonStockWatch
 			public const int visible = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int withText = 2131230908;
+			public const int webView1 = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int wrap_content = 2131230909;
+			public const int withText = 2131230909;
+			
+			// aapt resource value: 0x7F0800BE
+			public const int wrap_content = 2131230910;
 			
 			static Id()
 			{
