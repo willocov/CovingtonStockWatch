@@ -112,7 +112,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_round.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Assets\StockWatchUI\assets\" />
+    <Folder Include="Assets\StockWatchUI\assets\images\" />
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
@@ -135,6 +135,3096 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\StockWatchUI\index.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\alarm-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\alarm.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\align-bottom.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\align-center.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\align-end.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\align-middle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\align-start.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\align-top.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\app-indicator.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\app.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\archive-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\archive.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-90deg-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-90deg-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-90deg-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-90deg-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-bar-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-bar-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-bar-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-bar-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-clockwise.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-counterclockwise.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-left-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-left-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-left-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-left-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-right-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-right-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-right-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-right-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-short.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-left-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-left-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-left-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-left-short.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-left-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-left-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-repeat.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-return-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-return-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-right-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-right-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-right-short.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-right-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-right-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-left-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-left-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-left-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-left-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-right-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-right-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-right-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-right-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-short.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrow-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrows-angle-contract.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrows-angle-expand.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrows-collapse.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrows-expand.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrows-fullscreen.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\arrows-move.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\aspect-ratio-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\aspect-ratio.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\asterisk.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\at.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\award-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\award.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\back.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\backspace-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\backspace-reverse-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\backspace-reverse.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\backspace.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-4k-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-4k.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-8k-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-8k.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-cc-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-cc.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-hd-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-hd.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-tm-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-tm.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-vo-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\badge-vo.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bag-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bag-dash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bag-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bag-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bag.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bar-chart-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bar-chart-line-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bar-chart-line.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bar-chart-steps.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bar-chart.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\basket-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\basket.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\basket2-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\basket2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\basket3-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\basket3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\battery-charging.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\battery-full.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\battery-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\battery.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bell-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bell.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bezier.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bezier2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bicycle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\binoculars-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\binoculars.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\blockquote-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\blockquote-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\book-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\book-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\book.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bookmark-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bookmark-dash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bookmark-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bookmark-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bookmark.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bookmarks-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bookmarks.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bookshelf.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bootstrap-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bootstrap-reboot.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bootstrap.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\border-style.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\border-width.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bounding-box-circles.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bounding-box.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-down-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-down-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-in-down-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-in-down-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-in-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-in-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-in-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-in-up-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-in-up-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-in-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-up-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-up-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-arrow-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box-seam.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\box.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\braces.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bricks.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\briefcase-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\briefcase.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\brightness-alt-high-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\brightness-alt-high.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\brightness-alt-low-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\brightness-alt-low.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\brightness-high-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\brightness-high.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\brightness-low-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\brightness-low.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\broadcast-pin.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\broadcast.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\brush.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bucket-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bucket.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bug-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bug.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\building.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\bullseye.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calculator-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calculator.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-check-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-date-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-date.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-day-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-day.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-event-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-event.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-minus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-month-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-month.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-plus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-range-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-range.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-week-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar-week.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-check-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-date-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-date.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-day-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-day.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-event-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-event.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-minus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-month-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-month.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-plus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-range-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-range.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-week-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2-week.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar3-event-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar3-event.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar3-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar3-range-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar3-range.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar3-week-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar3-week.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar4-event.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar4-range.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar4-week.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\calendar4.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\camera-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\camera-reels-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\camera-reels.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\camera-video-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\camera-video-off-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\camera-video-off.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\camera-video.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\camera.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\camera2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\capslock-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\capslock.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\card-checklist.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\card-heading.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\card-image.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\card-list.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\card-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-down-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-down-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-down-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-left-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-left-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-left-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-right-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-right-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-right-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-up-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-up-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-up-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\caret-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cart-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cart-dash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cart-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cart-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cart.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cart2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cart3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cart4.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cash-stack.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cast.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-dots-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-dots.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-left-dots-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-left-dots.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-left-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-left-quote-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-left-quote.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-left-text-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-left-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-quote-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-quote.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-right-dots-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-right-dots.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-right-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-right-quote-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-right-quote.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-right-text-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-right-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-square-dots-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-square-dots.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-square-quote-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-square-quote.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-square-text-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-square-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-text-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chat.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check-all.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check2-all.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check2-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check2-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\check2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-bar-contract.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-bar-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-bar-expand.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-bar-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-bar-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-bar-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-compact-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-compact-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-compact-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-compact-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-contract.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-double-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-double-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-double-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-double-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-expand.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\chevron-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\circle-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\circle-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\clipboard-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\clipboard-data.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\clipboard-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\clipboard-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\clipboard.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\clock-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\clock-history.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\clock.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-arrow-down-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-arrow-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-arrow-up-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-arrow-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-check-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-download-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-download.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-minus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-plus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-slash-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-slash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-upload-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud-upload.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cloud.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\code-slash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\code-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\code.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\collection-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\collection-play-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\collection-play.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\collection.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\columns-gap.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\columns.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\command.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\compass.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cone-striped.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cone.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\controller.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cpu-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cpu.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\credit-card-2-back-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\credit-card-2-back.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\credit-card-2-front-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\credit-card-2-front.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\credit-card-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\credit-card.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\crop.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cup-straw.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cup.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cursor-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cursor-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\cursor.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dash-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dash-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dash-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dash-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\diagram-2-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\diagram-2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\diagram-3-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\diagram-3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\diamond-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\diamond-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\diamond.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-1-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-2-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-3-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-4-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-4.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-5-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-5.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-6-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dice-6.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\display-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\display.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\distribute-horizontal.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\distribute-vertical.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\door-closed-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\door-closed.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\door-open-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\door-open.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\dot.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\download.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\droplet-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\droplet-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\droplet.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\earbuds.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\easel-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\easel.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\egg-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\egg-fried.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\egg.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\eject-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\eject.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\emoji-angry.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\emoji-dizzy.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\emoji-expressionless.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\emoji-frown.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\emoji-laughing.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\emoji-neutral.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\emoji-smile-upside-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\emoji-smile.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\emoji-sunglasses.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\envelope-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\envelope-open-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\envelope-open.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\envelope.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-diamond-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-diamond.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-octagon-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-octagon.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-triangle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation-triangle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclamation.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\exclude.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\eye-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\eye-slash-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\eye-slash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\eye.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\eyeglasses.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-arrow-down-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-arrow-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-arrow-up-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-arrow-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-binary-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-binary.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-break-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-break.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-check-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-code-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-code.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-diff-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-diff.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-arrow-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-arrow-up-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-arrow-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-binary-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-binary.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-break-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-break.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-check-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-code-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-code.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-diff-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-diff.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-medical-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-medical.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-minus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-plus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-ruled-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-ruled.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-spreadsheet-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-spreadsheet.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-text-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-zip-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark-zip.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-earmark.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-medical-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-medical.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-minus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-music-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-music.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-person-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-person.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-plus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-post-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-post.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-richtext-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-richtext.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-ruled-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-ruled.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-spreadsheet-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-spreadsheet.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-text-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-zip-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file-zip.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\file.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\files-alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\files.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\film.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\filter-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\filter-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\filter-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\filter-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\filter-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\filter-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\filter.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\flag-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\flag.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\flower1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\flower2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\flower3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\folder-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\folder-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\folder-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\folder-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\folder-symlink-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\folder-symlink.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\folder.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\folder2-open.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\folder2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\fonts.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\forward-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\forward.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\front.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\fullscreen-exit.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\fullscreen.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\funnel-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\funnel.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\gear-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\gear-wide-connected.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\gear-wide.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\gear.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\gem.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\geo-alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\geo.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\gift-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\gift.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\globe.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\globe2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\graph-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\graph-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid-1x2-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid-1x2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid-3x2-gap-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid-3x2-gap.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid-3x2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid-3x3-gap-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid-3x3-gap.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid-3x3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grid.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grip-horizontal.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\grip-vertical.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hammer.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hand-index-thumb.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hand-index.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hand-thumbs-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hand-thumbs-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\handbag-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\handbag.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hdd-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hdd-network-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hdd-network.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hdd-rack-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hdd-rack.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hdd-stack-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hdd-stack.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hdd.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\headphones.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\headset.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\heart-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\heart-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\heart.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\heptagon-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\heptagon-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\heptagon.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hexagon-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hexagon-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hexagon.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hourglass-bottom.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hourglass-split.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hourglass-top.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hourglass.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\house-door-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\house-door.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\house-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\house.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\hr.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\image-alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\image-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\image.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\images.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\inbox-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\inbox.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\inboxes-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\inboxes.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\info-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\info-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\info-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\info-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\info.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\input-cursor-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\input-cursor.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\intersect.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-album.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-arrow-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-arrow-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-code.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-medical.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-richtext.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal-text.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journal.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\journals.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\joystick.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\justify-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\justify-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\justify.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\kanban-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\kanban.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\key-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\key.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\keyboard-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\keyboard.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\ladder.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\lamp-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\lamp.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\laptop-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\laptop.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layers-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layers-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layers.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-sidebar-inset-reverse.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-sidebar-inset.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-sidebar-reverse.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-sidebar.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-split.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-text-sidebar-reverse.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-text-sidebar.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-text-window-reverse.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-text-window.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-three-columns.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\layout-wtf.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\life-preserver.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\lightning-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\lightning.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\link-45deg.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\link.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\list-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\list-nested.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\list-ol.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\list-stars.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\list-task.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\list-ul.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\list.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\lock-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\lock.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\mailbox.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\mailbox2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\map.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\markdown-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\markdown.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\menu-app-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\menu-app.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\menu-button-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\menu-button-wide-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\menu-button-wide.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\menu-button.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\menu-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\menu-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\mic-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\mic-mute-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\mic-mute.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\mic.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\minecart-loaded.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\minecart.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\moon.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\mouse.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\mouse2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\mouse3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\music-note-beamed.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\music-note-list.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\music-note.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\music-player-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\music-player.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\newspaper.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\node-minus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\node-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\node-plus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\node-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\nut-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\nut.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\octagon-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\octagon-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\octagon.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\option.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\outlet.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\paperclip.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\paragraph.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-check-fll.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-exclamation-fll.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-exclamation.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-minus-fll.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-plus-fll.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-question-fll.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\patch-question.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pause-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pause.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\peace-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\peace.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pen.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pencil-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pencil.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pentagon-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pentagon-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pentagon.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\people-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\people.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\percent.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-badge-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-badge.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-bounding-box.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-check-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-dash-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-dash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-lines-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-plus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\person.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\phone-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\phone-landscape-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\phone-landscape.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\phone.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pie-chart-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pie-chart.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pip-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\pip.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\play-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\play.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\plug.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\plus-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\plus-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\plus-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\plus-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\power.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\printer-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\printer.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\puzzle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\puzzle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\question-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\question-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\question-diamond-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\question-diamond.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\question-octagon-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\question-octagon.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\question-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\question-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\question.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\receipt-cutoff.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\receipt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\reception-0.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\reception-1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\reception-2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\reception-3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\reception-4.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\reply-all-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\reply-all.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\reply-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\reply.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\rss-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\rss.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\screwdriver.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\search.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\segmented-nav.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\server.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\share-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\share.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-exclamation.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-fill-check.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-fill-exclamation.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-fill-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-fill-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-lock-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-lock.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-shaded.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-slash-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield-slash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shield.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shift-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shift.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shop-window.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shop.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\shuffle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\signpost-2-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\signpost-2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\signpost-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\signpost-split-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\signpost-split.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\signpost.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sim-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sim.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\skip-backward-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\skip-backward.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\skip-end-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\skip-end.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\skip-forward-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\skip-forward.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\skip-start-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\skip-start.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\slash-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\slash-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\slash-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\slash-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\slash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sliders.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\smartwatch.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-alpha-down-alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-alpha-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-alpha-up-alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-alpha-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-down-alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-numeric-down-alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-numeric-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-numeric-up-alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-numeric-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-up-alt.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sort-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\soundwave.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\speaker.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\spellcheck.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\square-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\star-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\star-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\star.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\stickies-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\stickies.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sticky-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sticky.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\stop-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\stop.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\stoplights-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\stoplights.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\stopwatch-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\stopwatch.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\subtract.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\suit-club-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\suit-club.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\suit-diamond-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\suit-diamond.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\suit-heart-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\suit-heart.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\suit-spade-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\suit-spade.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sun.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\sunglasses.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\table.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tablet-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tablet-landscape-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tablet-landscape.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tablet.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tag-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tag.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tags-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tags.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-forward-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-forward.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-inbound-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-inbound.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-minus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-minus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-outbound-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-outbound.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-plus-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-plus.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-x-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone-x.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\telephone.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\terminal-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\terminal.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\text-center.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\text-indent-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\text-indent-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\text-left.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\text-right.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\textarea-resize.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\textarea-t.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\textarea.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\thermometer-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\thermometer.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\three-dots-vertical.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\three-dots.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\toggle-off.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\toggle-on.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\toggle2-off.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\toggle2-on.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\toggles.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\toggles2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tools.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\trash-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\trash.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\trash2-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\trash2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tree-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tree.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\triangle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\triangle-half.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\triangle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\trophy.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\truck-flatbed.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\truck.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tv-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\tv.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\type-bold.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\type-h1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\type-h2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\type-h3.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\type-italic.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\type-strikethrough.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\type-underline.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\type.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\ui-checks.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\ui-radios.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\union.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\unlock-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\unlock.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\upc-scan.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\upc.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\upload.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\view-list.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\view-stacked.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\voicemail.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\volume-down-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\volume-down.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\volume-mute-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\volume-mute.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\volume-off-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\volume-off.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\volume-up-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\volume-up.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\vr.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\wallet-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\wallet.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\wallet2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\watch.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\wifi-1.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\wifi-2.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\wifi-off.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\wifi.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\window.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\wrench.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\x-circle-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\x-circle.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\x-diamond-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\x-diamond.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\x-octagon-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\x-octagon.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\x-square-fill.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\x-square.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\x.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\zoom-in.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\assets\bootstrap-icons-1.0.0-alpha5\zoom-out.svg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
