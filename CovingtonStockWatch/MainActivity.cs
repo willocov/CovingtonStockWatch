@@ -5,9 +5,6 @@ using Android.Runtime;
 using Android.Webkit;
 using Android.Widget;
 using System;
-using System.Collections.Generic;
-using System.Net;
-using System.IO;
 
 namespace CovingtonStockWatch
 {
@@ -19,13 +16,6 @@ namespace CovingtonStockWatch
         {
             base.OnCreate(savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
-            
-            //Remove title bar
-            //this.RequestWindowFeature(Android.Views.WindowFeatures.NoTitle);
-
-            //Remove notification bar
-            //this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-
             SetContentView(Resource.Layout.activity_main);
 
             //Set webview parameters
@@ -41,7 +31,7 @@ namespace CovingtonStockWatch
                 builder.SetTitle("Error");
                 TextView input = new TextView(this);
                 input.SetPadding(10, 2, 2, 2);
-                input.Text = "Failed to Load webview: " + ex.Message;
+                input.Text = "Failed to Load Application Webview: " + ex.Message;
                 builder.SetView(input);
 
                 builder.Create().Show();
