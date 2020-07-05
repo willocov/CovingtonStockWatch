@@ -17,8 +17,6 @@ namespace CovingtonStockWatch {
             public NotificationType type { get; set; }
         }
 
-
-
         public void Load() {
             try
             {
@@ -129,6 +127,7 @@ namespace CovingtonStockWatch {
                 Console.WriteLine("Error: Failed to Clear Stocks from SqliteDB: " + ex.Message);
             }
         }
+
         public void ClearNotifications() {
             try
             {
