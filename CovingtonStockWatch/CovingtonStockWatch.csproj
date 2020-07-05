@@ -81,43 +81,6 @@
     <Compile Include="StockNotifications.cs" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\assets\fonts\fontawesome-webfont.eot" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\fonts\fontawesome-webfont.ttf" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\fonts\fontawesome-webfont.woff" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\fonts\fontawesome-webfont.woff2" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\fonts\FontAwesome.otf" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\main.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\base\_page.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\base\_reset.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\base\_typography.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_actions.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_box.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_button.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_form.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_grid.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_highlights.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_icon.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_icons.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_image.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_inner.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_list.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_table.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_testimonials.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\components\_wrapper.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\layout\_banner.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\layout\_cta.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\layout\_footer.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\layout\_header.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\layout\_heading.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\layout\_main.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\layout\_menu.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\libs\_breakpoints.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\libs\_flexgrid.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\libs\_functions.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\libs\_grid.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\libs\_mixins.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\libs\_vars.scss" />
-    <AndroidAsset Include="Assets\StockWatchUI\assets\sass\libs\_vendor.scss" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
@@ -149,6 +112,7 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_round.png" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Assets\StockWatchUI\assets\" />
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
@@ -158,61 +122,19 @@
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\CREDITS.txt" />
+    <AndroidAsset Include="Assets\StockWatchUI\css\styles.css" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\elements.html" />
+    <AndroidAsset Include="Assets\StockWatchUI\js\CovingtonStockWatch.js" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\generic.html" />
+    <AndroidAsset Include="Assets\StockWatchUI\js\jquery\jquery.3.3.1.min.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\StockWatchUI\js\jquery\jquery.validate.min.js" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\StockWatchUI\index.html" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\assets\css\font-awesome.min.css" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\assets\css\main.css" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\assets\fonts\fontawesome-webfont.svg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\assets\js\breakpoints.min.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\assets\js\browser.min.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\assets\js\jquery.min.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\assets\js\main.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\assets\js\util.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\images\banner.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\images\banner.mp4" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\images\bg.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\images\cta01.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\images\pic01.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\images\pic02.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidAsset Include="Assets\StockWatchUI\images\pic03.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
