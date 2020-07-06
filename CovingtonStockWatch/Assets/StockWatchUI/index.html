@@ -9,12 +9,18 @@
   <meta name="author" content="Covington Software Solutions">
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
-
+  <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <link href="css/toastr/toastr.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/font-awesome/css/all.css" rel="stylesheet">
 </head>
 
 <body>
   <!--HEADER DECLARATIONS-->
-
+  <nav class="navbar navbar-custom" style="visibility: visible; ">
+    <button type="button" class="btn btn-elegant btn-rounded" onclick="ProfileButtonClicked()" style="font-size: 175%; color:white; background-color: #4DFF44;"><i class="far fa-user"></i></button>
+    <div class="header" style="font-size: 175%; color:white; font-weight: bold; -webkit-text-stroke: 1px black;"> Covington Stock Watch</div>
+    <button type="button"  class="btn btn-elegant btn-rounded" onclick="AddButtonClicked()" style="font-size: 175%; color:white; background-color: #4DFF44;"><i class="fas fa-plus"></i></button>
+  </nav>
   <!--MAIN VIEW / SCREEN DECLARATIONS-->
   <div id="main-view">
     <!--STOCK VIEWER SCREEN-->
@@ -45,6 +51,8 @@
   <script src="js/jquery/jquery.3.3.1.min.js"></script>
   <script src="js/jquery/jquery.validate.min.js"></script>
   <script src="js/CovingtonStockWatch.js"></script>
+  <script src="js/bootstrap/bootstrap.min.js"></script>
+  <script src="js/toastr/toastr.min.js"></script>
 
 </body>
 </html>

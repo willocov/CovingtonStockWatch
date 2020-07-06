@@ -120,7 +120,28 @@ function RemoveProfile(){
 
 }
 
+function ProfileButtonClicked(){
+    console.log("Profile Button Clicked");
+    
+    
+}
+
 //Stock Related Functions
+function AddButtonClicked(){
+    if($("#StockViewerScreen").is(":visible")){
+        console.log("Add Stock Button Clicked");
+        gotoStockManagerScreen();
+    }
+    else if($("#NotificationViewerScreen").is(":visible")){
+       console.log("Add Notification Button Clicked");
+       gotoNotificationManagerScreen();
+    }
+    else{
+        console.log("Add Button Pressed from Invalid Screen");
+        gotoStockViewerScreen();
+    }
+}
+
 function AddStock(){}
 
 function RemoveStock(){}
